@@ -1,0 +1,15 @@
+{
+  "_comentario": "Copia este archivo como settings_v6.json (o usa la opcion 7 del menu / --calibrar, que lo crea). settings.txt NO se toca.",
+  "spots": {
+    "new_layer_button": [1850, 250],
+    "layer_panel_region": [1760, 280, 150, 300],
+    "brush_size_input": [60, 400]
+  },
+  "config": {
+    "LAYER_MODE": "auto",
+    "BRUSH_SIZE_MODE": "input",
+    "TOOL_HOTKEY": null,
+    "SEED": 1,
+    "MAX_MINUTES": 120
+  }
+}
